@@ -1,4 +1,4 @@
-# Site settings
+Site settings
 title: Jekyll Doc Theme
 email: bjnhur@gmail.com
 description: >
@@ -20,7 +20,7 @@ bootwatch: Readable
 # Build settings
 markdown: kramdown
 highlighter: rouge
-gems:
+plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
